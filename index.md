@@ -1,3 +1,3 @@
-# Welcome to my blog
+Elwyn Scheduling Project Site
 
-I'm glad you are here. I plan to talk about ...
+Includes Project Data
